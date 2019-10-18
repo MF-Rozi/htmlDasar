@@ -1,0 +1,15 @@
+#head {
+    min-height: 10%;
+    background-color: green;
+}
+
+#content {
+    min-height: 85%;
+    background-color: gray;
+
+}
+
+#foot {
+    min-height: 5%;
+    background-color: #666;
+}
